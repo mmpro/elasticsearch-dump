@@ -36,6 +36,8 @@ var defaults = {
   awsChain: false,
   awsAccessKeyId: null,
   awsSecretAccessKey: null,
+  awsRegion: null,
+  awsService: null,
   awsIniFileProfile: null,
   awsIniFileName: null,
   sessionToken: null,
